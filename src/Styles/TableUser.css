@@ -1,0 +1,44 @@
+.icon {
+    display: flex;
+    justify-items: center;
+}
+
+.input-area {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.input-bar {
+    
+    width: 200px;
+    border: 2px solid rgb(155, 152, 152);
+
+}
+
+.icon-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    /* font-size: 1.5rem; */
+    /* border: none;
+    outline: none;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center; */
+}
+
+.icon-title1 {
+    font-weight: 200;   
+}
+
+.text-fill {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
